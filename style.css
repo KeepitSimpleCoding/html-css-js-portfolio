@@ -283,34 +283,6 @@ section {
     }
 
 
-    /*media queries*/
-    
-    @media screen and (max-width: 1200px) {
-        #desktop-nav {
-            display: none;
-        }
-    }
-    @media screen and (max-width: 1200px) {
-        #hamburger-nav {
-            display: flex;
-        }
-    }
-
-   
-    @media screen and (max-width: 1400px) {
-        #profile {
-            height: 83vh;
-            margin-bottom: 6rem;
-        }
-    }
-    @media screen and (max-width: 1200px) {
-        #hamburger-nav {
-            display: flex;
-          
-                   }
-        .logo{
-            display: none;
-        }
 
         #profile {
             display: flex;
